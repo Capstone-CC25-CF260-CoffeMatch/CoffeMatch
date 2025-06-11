@@ -14,7 +14,7 @@ This dataset represents the data related to food recommender system. Two dataset
 [Dataset](https://www.kaggle.com/datasets/schemersays/food-recommendation-system)
 
 ## HOW TO RECOMMEND
-The Machine Learning model can recommend the user with the nearest similarity of their favourite food. 
+The machine learning model can recommend the user the food with the closest similarity when they click on a menu item.
 
 ## Model Accuracy and Loss
 Train and Val MAE and Train and Val Loss

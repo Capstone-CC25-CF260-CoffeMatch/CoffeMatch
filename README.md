@@ -17,8 +17,9 @@ This dataset represents the data related to food recommender system. Two dataset
 The Machine Learning model can recommend the user with the nearest similarity of their favourite food. 
 
 ## Model Accuracy and Loss
-1. Train and Val MAE <br>
-![CoffeMatch]([https://i.postimg.cc/PrPQ87jM/evaluasi-model.png])<br>
+1. Train and Val MAE  
+![CoffeMatch](https://i.postimg.cc/PrPQ87jM/evaluasi-model-mae.png)  
 
-2. Train and Val Loss <br>
-![CoffeMatch]([https://i.postimg.cc/PrPQ87jM/evaluasi-model.png])<br>
+2. Train and Val Loss  
+![CoffeMatch](https://i.postimg.cc/PrPQ87jM/evaluasi-model-loss.png)
+

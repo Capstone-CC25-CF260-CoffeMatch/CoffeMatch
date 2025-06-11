@@ -11,7 +11,7 @@ The Machine Learning model can be used to provide information about a content-ba
 ## DATASETS 
 This dataset represents the data related to food recommender system. Two datasets are included in this dataset file. First includes the dataset related to the foods, ingredients, cuisines involved. Second, includes the dataset of the rating system for the recommendation system.
 
-[Latest Dataset]([https://github.com/Capstone-Bangkit-C242-PS538/TravelIn-Bangkit/blob/Machine_Learning/Dataset/tourid.csv](https://www.kaggle.com/datasets/schemersays/food-recommendation-system))
+[Latest Dataset](https://github.com/Capstone-Bangkit-C242-PS538/TravelIn-Bangkit/blob/Machine_Learning/Dataset/tourid.csv](https://www.kaggle.com/datasets/schemersays/food-recommendation-system)
 
 ## HOW TO RECOMMEND
 The Machine Learning model can recommend the user with the nearest similarity of their favourite food. 

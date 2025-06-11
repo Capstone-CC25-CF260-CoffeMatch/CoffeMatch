@@ -1,8 +1,24 @@
-![Auto Assign](https://github.com/Capstone-CC25-CF260-CoffeMatch/demo-repository/actions/workflows/auto-assign.yml/badge.svg)
+# CoffeMatch
+## Coding Camp Capstone Project
 
-![Proof HTML](https://github.com/Capstone-CC25-CF260-CoffeMatch/demo-repository/actions/workflows/proof-html.yml/badge.svg)
+Coding Camp Capstone Team ID : CC25-CF260	 <br>
+Here is our repository for the Coding Camp 2025 Capstone project - Machine Learning.
 
-# Welcome to your organization's demo respository
-This code repository (or "repo") is designed to demonstrate the best GitHub has to offer with the least amount of noise.
+## DESCRIPTION
+The Machine Learning model can be used to provide information about a content-based filtering approach for its recommendation system, providing personalized and accurate recommendations for users.
 
-The repo includes an `index.html` file (so it can render a web page), two GitHub Actions workflows, and a CSS stylesheet dependency.
+
+## DATASETS 
+This dataset represents the data related to food recommender system. Two datasets are included in this dataset file. First includes the dataset related to the foods, ingredients, cuisines involved. Second, includes the dataset of the rating system for the recommendation system.
+
+[Latest Dataset]([https://github.com/Capstone-Bangkit-C242-PS538/TravelIn-Bangkit/blob/Machine_Learning/Dataset/tourid.csv](https://www.kaggle.com/datasets/schemersays/food-recommendation-system))
+
+## HOW TO RECOMMEND
+The Machine Learning model can recommend the user with the nearest similarity of their favourite food. 
+
+## Model Accuracy and Loss
+1. Train and Val MAE <br>
+![TravelinApp](https://github.com/Capstone-Bangkit-C242-PS538/TravelIn-Bangkit/blob/Machine_Learning/Assets/mae.jpg)<br>
+
+2. Train and Val Loss <br>
+![TravelinApp](https://github.com/Capstone-Bangkit-C242-PS538/TravelIn-Bangkit/blob/Machine_Learning/Assets/train.jpg)<br>

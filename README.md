@@ -18,7 +18,7 @@ The Machine Learning model can recommend the user with the nearest similarity of
 
 ## Model Accuracy and Loss
 1. Train and Val MAE <br>
-![CoffeMatch]([https://github.com/Capstone-Bangkit-C242-PS538/TravelIn-Bangkit/blob/Machine_Learning/Assets/mae.jpg](https://github.com/Capstone-CC25-CF260-CoffeMatch/CoffeMatch/blob/5c6be8288a70c795df1d1641a36bbf094799bbf3/Assets/evaluasi%20model.png))<br>
+![CoffeMatch]([https://i.postimg.cc/PrPQ87jM/evaluasi-model.png])<br>
 
 2. Train and Val Loss <br>
-![CoffeMatch]([https://github.com/Capstone-Bangkit-C242-PS538/TravelIn-Bangkit/blob/Machine_Learning/Assets/train.jpg](https://github.com/Capstone-CC25-CF260-CoffeMatch/CoffeMatch/blob/5c6be8288a70c795df1d1641a36bbf094799bbf3/Assets/evaluasi%20model.png))<br>
+![CoffeMatch]([https://i.postimg.cc/PrPQ87jM/evaluasi-model.png])<br>
